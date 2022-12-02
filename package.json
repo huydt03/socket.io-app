@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@huy-tmp/room-io": "^1.0.0"
+  },
+  "name": "@huy-tmp/socket.io-app",
+  "version": "1.0.0",
+  "description": "app socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huydt03/socket.io-app.git"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "huydt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huydt03/socket.io-app/issues"
+  },
+  "homepage": "https://github.com/huydt03/socket.io-app#readme"
+}
